@@ -1,10 +1,3 @@
-# Song Genre Classification Project
-
-* Student name: A. Utku Kale
-* Student pace: NYC/Full time
-* Scheduled project review date/time: 3/10/23
-* Instructor name: Brendan Hutchinson & Joseph Mata
-* Blog post URL: https://medium.com/@utkukale 
 
 ![image.png](61iZKcypu0L.jpg)
 
